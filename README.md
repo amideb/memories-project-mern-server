@@ -24,7 +24,7 @@ Technology: JavaScript, React.js, Node.js, Express, MongoDB, Axios, Cors, Nodemo
 
 <br/>
 
-Backend: https://github.com/debrupofficial365/memories-project-mern-server/blob/main/README.md
+Backend: https://github.com/debrupofficial365/memories-project-mern-server
 
 <br/>
 
