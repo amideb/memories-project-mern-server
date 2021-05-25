@@ -61,7 +61,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
     $ cd PROJECT_TITLE
-    $ yarn install
+    $ npm install
 
 ## Configure app
 
@@ -73,8 +73,8 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 
 ## Running the project
 
-    $ yarn start
+    $ npm start
 
 ## Simple build for production
 
-    $ yarn build
+    $ npm build
