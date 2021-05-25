@@ -1,11 +1,17 @@
 
 
-Open http://localhost:5000 to view it in the browser.
+
 
 # Memories Project MERN Server
 
 The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
-Technology: JavaScript, React.js, Node.js, Express, MongoDB, Axios, Cors, Nodemon
+<br/>
+
+Technology: JavaScript, React.js, Node.js, Express, MongoDB, Axios, Cors, Nodemon 
+
+Frontend : https://github.com/debrupofficial365/memories-project-mern-client
+<br/>
+Open http://localhost:5000 to view it in the browser.
 
 ---
 ## Requirements
