@@ -10,9 +10,12 @@ The App is called "Memories" and it is a simple social media app that allows use
 Technology: JavaScript, React.js, Node.js, Express, MongoDB, Axios, Cors, Nodemon 
 <br/>
 
+<br/>
 ![image](https://user-images.githubusercontent.com/57451228/119543016-d1b19480-bdad-11eb-8641-72e286a0d71f.png)
 
 
+
+<br/>
 
 Frontend : https://github.com/debrupofficial365/memories-project-mern-client
 <br/>
