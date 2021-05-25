@@ -8,6 +8,9 @@ The App is called "Memories" and it is a simple social media app that allows use
 <br/>
 
 Technology: JavaScript, React.js, Node.js, Express, MongoDB, Axios, Cors, Nodemon 
+
+
+
 <br/>
 
 
